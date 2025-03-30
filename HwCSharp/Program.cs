@@ -14,7 +14,7 @@ namespace HwCSharp
             store.Add(new Product(4, "Artem", 2, "Vegetable", 1));
 
             store.Remove(4);
-
+             
 
 
         }
